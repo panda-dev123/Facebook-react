@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+
+# Misc
+.env
+<<<<<<< HEAD
+frontend/.env
+api/.env
+=======
+api/.env
+frontend/.env
+>>>>>>> grover-milestone-1
+.DS_Store
+
+# Package manager
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
